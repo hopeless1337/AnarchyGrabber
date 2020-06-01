@@ -1,1 +1,1 @@
-yeah no there's not a lot of stuff here yet.
+This fork is for research purposes. Malicious use of this program is discouraged.
